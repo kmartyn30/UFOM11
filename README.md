@@ -2,7 +2,8 @@
 
 ## Overview
 
- Dana goal was to designs an inteactive webpage that allowed readers to parse data around sights that viewed UFOs.  She was going to design the webpage with an HTML data and link with a presentation in Javascript. She wanted to create a storyboards for her readersinto a webpage by first outlining the elements of the webpage such as title, summary, article title and a table. She created the table with the page header, navagation bar, table, article and article paragraph.  She wanted to investigate UFO sightings was it fact or fancy?  She choose the title "The Truth is Out There"
+ Dana goal was to designs an inteactive webpage that allowed readers to parse data around sights that viewed UFOs.  She was going to design the webpage with an HTML data and link with a presentation in Javascript. She wanted to create a storyboards for her readersinto a webpage by first outlining the elements of the webpage such as title, summary, article title and a table. She created the table with the page header, navagation bar, table, article and article pa![challenge2](https://user-images.githubusercontent.com/107796290/197289384-b4f0b5c2-2a54-4b2f-bc00-7780f2f071da.png)
+ragraph.  She wanted to investigate UFO sightings was it fact or fancy?  She choose the title "The Truth is Out There"
 
 The prgram entailed using HTML and Javascript in vscode. 
 * Use `forEach()` and callback functions
@@ -19,7 +20,8 @@ The Truth is Out There.png
 
  In the Challege Dana created the fliter table to break down all of the cities, states and countries that viewed UFO at a particular date time and the shape of the UFO that the person viewed and how long did they view the UFO for at that sight. 
  
- 
+ ![challenge2](https://user-images.githubusercontent.com/107796290/197289423-7800a3e2-7b4b-4b88-b01f-13e8dae52597.png)
+
 
 
 
