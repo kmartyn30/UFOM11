@@ -13,9 +13,14 @@ The prgram entailed using HTML and Javascript in vscode.
 * Use D3 to attach events to DOM elements
 
 
-The change in the challege that Dana added were to the html were to add a button with four elements "city, State, Country and shape of the UFO". 
-
+ The change in the challege that Dana added were to the html were to add a button with four elements "city, State, Country and shape of the UFO". 
 The Truth is Out There.png
+
+
+ In the Challege Dana created the fliter table to break down all of the cities, states and countries that viewed UFO at a particular date time and the shape of the UFO that the person viewed and how long did they view the UFO for at that sight. 
+ 
+ 
+
 
 
 
